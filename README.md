@@ -6,7 +6,7 @@ All based on the Midstar original intergration and Libuary. ( https://github.com
 Copy files to /config/custom_components/heatmiser_hw/ directory on you Home Assistant Server
 Note currently no Icon for the intergration.
 
-Yaml configeuration is as follows - 
+Yaml configuration is as follows - 
 Add to configuration.yaml
 
 water_heater: 
