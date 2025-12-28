@@ -1,4 +1,5 @@
-Home Assistant Intergration to expose the Water Heating Component from a Heatmiser Thermostat PRT-HW
+Home Assistant Intergration to expose the Water Heating Component from a Heatmiser Thermostat PRT-HW.
+
 This uses the Heatmiser_WiFi libuary and is to complement the Heatmiser_WiFi_HA componet.
 All based on the Midstar original intergration and Libuary. ( https://github.com/midstar )
 
