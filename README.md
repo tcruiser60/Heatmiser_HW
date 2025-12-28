@@ -15,6 +15,7 @@ water_heater:
   port: 8068 # default port      
   pin: 1234  # default pin change as required
   friendly_name: 'HotWater' # change as required
+  
 
 Note - PRT-HW only have on/off for water heating no temperature control, they also 
 support Away mode.   
