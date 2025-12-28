@@ -14,6 +14,7 @@ water_heater:
   host: xxx.xxx.xxx.xxx # IP address of PRTHW     
   port: 8068 # default port      
   pin: 1234  # default pin change as required
+  
   friendly_name: 'HotWater' # change as required
   
 
