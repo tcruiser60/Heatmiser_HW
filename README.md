@@ -1,4 +1,4 @@
-# Heatmiser Hot Water compentent for  Home Assistant 
+# Heatmiser WiFi Water_Heater compentent for Home Assistant 
 
 Home Assistant Intergration to expose the Water Heating Component from a Heatmiser Thermostat PRT-HW.
 
